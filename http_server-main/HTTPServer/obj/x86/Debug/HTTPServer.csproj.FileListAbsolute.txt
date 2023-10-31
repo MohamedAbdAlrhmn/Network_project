@@ -1,0 +1,18 @@
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\pop\Documents\GitHub\http_server\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\pop\Documents\GitHub\http_server\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\pop\Documents\GitHub\http_server\HTTPServer\obj\x86\Debug\HTTPServer.csprojAssemblyReference.cache
+C:\Users\pop\Documents\GitHub\http_server\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\pop\Documents\GitHub\http_server\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\pop\Documents\GitHub\http_server\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+F:\level3 subject\computer network\http_server-main\HTTPServer\bin\Debug\HTTPServer.exe.config
+F:\level3 subject\computer network\http_server-main\HTTPServer\bin\Debug\HTTPServer.exe
+F:\level3 subject\computer network\http_server-main\HTTPServer\bin\Debug\HTTPServer.pdb
+F:\level3 subject\computer network\http_server-main\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+F:\level3 subject\computer network\http_server-main\HTTPServer\obj\x86\Debug\HTTPServer.csproj.SuggestedBindingRedirects.cache
+F:\level3 subject\computer network\http_server-main\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+F:\level3 subject\computer network\http_server-main\HTTPServer\obj\x86\Debug\HTTPServer.exe
+F:\level3 subject\computer network\http_server-main\HTTPServer\obj\x86\Debug\HTTPServer.pdb
